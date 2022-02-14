@@ -63,7 +63,7 @@ for student in student_dict['gpa']:
 
     # append the record to the dictionary with the student id as the Key
     # and the value as the GPA
-    student_dict['gpa'] = 
+    #Sstudent_dict['gpa'] = 
 
 
 
